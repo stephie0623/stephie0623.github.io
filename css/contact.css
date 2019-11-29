@@ -1,0 +1,109 @@
+body {
+    background-image: linear-gradient(#55809f, #6089a3, #7590a1);
+}
+
+.navbar {
+    background-color: #55809f;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: #e49351;
+    ;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #e49351;
+    text-decoration: underline;
+}
+
+.btn {
+    font-size: 14px;
+    font-weight: 800;
+    padding: 15px 25px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 0;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.btn-primary {
+    background-color: #0085A1;
+    border-color: #0085A1;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    color: #fff;
+    background-color: #00657b !important;
+    border-color: #00657b !important;
+}
+
+.btn-lg {
+    font-size: 16px;
+}
+
+h5 {
+    margin-top: 150px;
+}
+
+p {
+    margin-top: 40px;
+}
+
+footer {
+    padding: 3.125em 0 4.0625em;
+}
+
+footer .fa-stack {
+    color: black;
+}
+
+footer .list-inline {
+    margin: 10;
+    padding: 0;
+}
+
+footer .copyright {
+    font-size: 0.875em;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+/*
+.btn {
+    margin-left: 110px;
+    background-color: #BC9272;
+    border-color: #BC9272;
+    color: #FFE66F;
+    font-size: 20px;
+    font-family: "Noto Sans CJK TC";
+}
+
+.btn:hover {
+    background-color: #BC9272;
+    border-color: #BC9272;
+    color: #FFE66F;
+}
+
+.card {
+    padding-top: 60px;
+}
+
+.card-body {
+    text-align: center;
+    font-family: "Noto Sans CJK TC";
+    font-size: 18px;
+    border-color: #BC9272;
+    background-color: #BC9272;
+    color: white;
+}*/

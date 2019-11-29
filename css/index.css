@@ -1,0 +1,158 @@
+/*.navbar {
+    background-color: rgb(3, 45, 94);
+}*/
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: #e49351;
+    ;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #e49351;
+    text-decoration: underline;
+}
+
+header.masthead {
+    /*margin-top: 55px;*/
+    margin-bottom: 3.125em;
+    background: no-repeat center center;
+    /*background-color: #f2f4f7;*/
+    background-attachment: scroll;
+    position: relative;
+    background-size: cover;
+}
+
+header.masthead .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #696c6e;
+    opacity: 0.5;
+}
+
+header.masthead .page-heading,
+header.masthead .post-heading,
+header.masthead .site-heading {
+    color: white;
+}
+
+@media only screen and (min-width: 768px) {
+    header.masthead .page-heading,
+    header.masthead .post-heading,
+    header.masthead .site-heading {
+        padding: 15.625em 0;
+    }
+}
+
+
+/*
+header.masthead .page-heading,
+header.masthead .site-heading {
+    text-align: start;
+}
+*/
+
+header.masthead .page-heading h1,
+header.masthead .site-heading h1 {
+    font-size: 3.125em;
+    margin-top: 1.25em;
+    margin-left: 0.875em;
+}
+
+header.masthead .page-heading .subheading,
+header.masthead .site-heading .subheading {
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.1;
+    display: block;
+    margin-left: 5.75em;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+@media only screen and (min-width: 48em) {
+    header.masthead .page-heading h1,
+    header.masthead .site-heading h1 {
+        font-size: 4em;
+    }
+}
+
+header.masthead .post-heading h1 {
+    font-size: 2.1875em;
+}
+
+header.masthead .post-heading .meta,
+header.masthead .post-heading .subheading {
+    line-height: 1.1;
+    display: block;
+}
+
+header.masthead .post-heading .subheading {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-left: 2em;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+header.masthead .post-heading .meta {
+    font-size: 1.25em;
+    font-weight: 300;
+    font-style: italic;
+    font-family: 'Lora', 'Times New Roman', serif;
+}
+
+header.masthead .post-heading .meta a {
+    color: #fff;
+}
+
+@media only screen and (min-width: 48em) {
+    header.masthead .post-heading h1 {
+        font-size: 3.4375em;
+    }
+    header.masthead .post-heading .subheading {
+        font-size: 1.875em;
+    }
+}
+
+footer {
+    padding: 3.125em 0 4.0625em;
+}
+
+footer .fa-stack {
+    color: black;
+}
+
+footer .list-inline {
+    margin: 10;
+    padding: 0;
+}
+
+footer .copyright {
+    font-size: 0.875em;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+/*
+.jumbotron {
+    background-color: rgb(3, 45, 94);
+    color: white;
+    margin-top: 72px;
+    text-align: center;
+    font-family: "Noto Sans CJK TC";
+}
+
+.carousel-item {
+    width: 80%;
+    margin-left: 200px;
+}*/

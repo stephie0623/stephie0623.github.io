@@ -1,0 +1,101 @@
+body {
+    background-image: linear-gradient(#55809f, #6089a3, #7590a1);
+}
+
+.navbar {
+    background-color: #55809f;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: #e49351;
+    ;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #e49351;
+    text-decoration: underline;
+}
+
+img {
+    margin-top: 9em;
+    margin-left: 3.125em;
+    width: 20em;
+}
+
+.content {
+    margin-top: 5em;
+    margin-right: 1em;
+    color: white;
+    font-size: 3.25em;
+}
+
+p {
+    margin-top: 1.25em;
+    margin-right: 4em;
+    color: white;
+    font-size: 1.5em;
+}
+
+span {
+    font-size: 0.875em;
+    font-weight: 200;
+}
+
+footer {
+    padding: 3.125em 0 4.0625em;
+}
+
+footer .fa-stack {
+    color: black;
+}
+
+footer .list-inline {
+    margin: 10;
+    padding: 0;
+}
+
+footer .copyright {
+    font-size: 0.875em;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+
+/*
+p {
+    margin-top: 70px;
+}
+
+.accordion {
+    margin-top: 80px;
+}
+
+.card-header {
+    background-color: #BC9272;
+}
+
+.btn-link {
+    color: white;
+}
+
+.btn-link:hover {
+    color: #FFE66F;
+}
+
+body {
+    font-family: "Noto Sans CJK TC";
+}
+
+.card-body {
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 80px;
+}*/
